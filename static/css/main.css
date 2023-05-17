@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+h1{
+    color: blue;
+    text-align: center;
+}
+table {
+    border-collapse: collapse; /* This property removes the default spacing between table cells */
+    border: 2px solid black; /* This sets a border around the table */
+    margin: 0 auto; /* This centers the table on the page */
+  }
+  
+  th, td {
+    border: 1px solid black; /* This sets a border around the table cells */
+    padding: 8px; /* This adds some padding inside the table cells */
+    text-align: center; /* This centers the text inside the table cells */
+  }
+  
